@@ -21,5 +21,12 @@ Requirements:
 }
 ```
 
+![](https://github.com/larsensolutions/git-hook-CI/demo.gif)
+
+## how to run
+```javascript
+node git-server.js
+```
+
 # Contact
 Erik Andreas Larsen – [@grizzifrog](https://twitter.com/grizzlifrog) – eriklarsen.post@gmail.com
