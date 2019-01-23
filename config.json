@@ -1,0 +1,10 @@
+{
+    "port": 5001,
+    "raspdus-client": {
+        "localPath": "/home/pi/Services/raspdus-client",
+        "buildCommand": "run-script build",
+        "distributionFolder": "dist",
+        "serviceWorkerFile":"make-sw.js",
+        "destinationPath":"/var/www/raspdus"
+    }
+}
