@@ -21,7 +21,7 @@ Requirements:
 }
 ```
 
-![](https://github.com/larsensolutions/git-hook-CI/demo.gif)
+![](https://github.com/larsensolutions/git-hook-CI/blob/master/demo.gif)
 
 ## how to run
 ```javascript
